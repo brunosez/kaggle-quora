@@ -15,5 +15,7 @@ Some indications and codes / pointers for Quora Kaggle's competition
   
   Neural Network (LSTM)
   
-  Here pointer to computed feature in Abishek solution
+  Here pointer to computed features in Abishek solution
+  
+  
   https://www.kaggle.com/c/quora-question-pairs/discussion/31284
